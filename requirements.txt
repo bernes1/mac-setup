@@ -1,0 +1,20 @@
+Chrome
+Docker 
+Vscode
+Homebrew?
+xcode devtools 
+nodejs
+iterm
+tailscale
+rdp client
+1pasword
+balena etcher
+packettracer
+onemenu
+obsidian
+rapidapi
+
+Setup 
+  -generate new sshkey for git or generrate one on the yubikey
+  -git
+  -
